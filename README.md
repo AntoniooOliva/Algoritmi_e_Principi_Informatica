@@ -1,5 +1,5 @@
+### Oliva Antonio
 # Progetto API 2022 / 2023
-## Oliva Antonio
 
 Si consideri un’autostrada descritta come una sequenza di stazioni di servizio. Ogni stazione di servizio si trova ad una distanza
 dall’inizio dell’autostrada espressa in chilometri da un numero intero positivo o nullo. Non esistono due stazioni di servizio aventi
@@ -17,3 +17,5 @@ t deve essere sempre più lontana dalla partenza rispetto a s, e t deve essere r
 L’obiettivo del progetto è il seguente: data una coppia di stazioni, pianificare il percorso con il minor numero
 di tappe tra di esse. Nel caso siano presenti più percorsi con lo stesso numero minimo di tappe (cioè a pari merito),
 deve essere scelto il percorso che predilige le tappe con distanza più breve dall’inizio dell’autostrada.
+
+#### Voto finale: 30L
