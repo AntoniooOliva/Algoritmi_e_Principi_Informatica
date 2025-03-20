@@ -25,5 +25,5 @@ I risultati sono stati compilati utilizzando il codice presente in [Makefile.txt
 
 Per la specifica completa del progetto, riferirsi al file [2022-2023.pdf](https://github.com/AntoniooOliva/API/blob/main/2022-2023.pdf)
 
-I test sono disponibili [qui]().
+I test sono disponibili [qui](https://github.com/AntoniooOliva/API/tree/main/open_tests).
 
