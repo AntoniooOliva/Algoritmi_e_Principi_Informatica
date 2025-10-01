@@ -50,11 +50,8 @@ The program must not only produce correct output but also comply with memory and
 | 30    |  88 MiB |  4 s  | :white_check_mark: |
 | 30L   |  78 MiB |  1 s  | :white_check_mark: |
 
-The results were obtained by compiling the code provided in  
-[Makefile.txt](https://github.com/AntoniooOliva/API/blob/main/Makefile.txt),  
-and may vary depending on the computational power of the machine used.
+The results were obtained by compiling the code provided in [Makefile.txt](https://github.com/AntoniooOliva/API/blob/main/Makefile.txt), and may vary depending on the computational power of the machine used.
 
-For the complete project specification, refer to the document  
-[2022-2023.pdf](https://github.com/AntoniooOliva/API/blob/main/2022-2023.pdf).
+For the complete project specification, refer to the document [2022-2023.pdf](https://github.com/AntoniooOliva/API/blob/main/2022-2023.pdf).
 
 Open tests are available [here](https://github.com/AntoniooOliva/API/tree/main/open_tests).
